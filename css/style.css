@@ -240,7 +240,7 @@ body.iOS .salon3 {
 .twocols .post-header {
   padding-top: 90px; }
 
-.twocols .sidebar, .behandelingen .sidebar {
+.twocols .sidebar, .treatments .sidebar {
   border-left: 1px dotted silver;
   padding-left: 25px;
   padding-bottom: 2px; }
@@ -270,40 +270,40 @@ body.iOS .salon3 {
   margin-bottom: 1.3em;
   font-weight: 400; }
 
-.behandelingen {
+.treatments {
   padding: 90px 0;
   background: white;
   color: #241a1f; }
 
-.behandelingen .post-content p {
+.treatments .post-content p {
   color: #666;
   margin-bottom: 0; }
 
-.behandelingen .post-content p.smaller {
+.treatments .post-content p.smaller {
   font-size: 12px;
   line-height: 1.7em; }
 
-.behandelingen .expand1 {
+.treatments .expand1 {
   display: none; }
 
-.behandelingen #expand1 {
+.treatments #expand1 {
   position: relative;
   bottom: 7px; }
 
-.behandelingen table {
+.treatments table {
   width: 100%;
   color: #666; }
 
-.behandelingen td {
+.treatments td {
   padding: 3px 0;
   font-size: 15px;
   line-height: 1.7em; }
 
-.behandelingen td.text-center {
+.treatments td.text-center {
   padding-left: 15px;
   padding-right: 15px; }
 
-.behandelingen td a {
+.treatments td a {
   text-decoration: none;
   color: #666; }
 
@@ -862,7 +862,7 @@ label {
   color: silver; }
 
 @media all and (max-width: 1199px) {
-  .behandelingen .sidebar {
+  .treatments .sidebar {
     padding-left: 0 !important;
     border-left: 0 !important; } }
 @media all and (max-width: 991px) {
