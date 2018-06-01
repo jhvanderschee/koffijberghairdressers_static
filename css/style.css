@@ -699,7 +699,7 @@ a:hover {
   transform: scale(0);
   -webkit-backface-visibility: hidden; }
 
-.ch-info h3 {
+.ch-info .h3 {
   color: #fff;
   text-transform: uppercase;
   position: relative;
