@@ -215,6 +215,22 @@
   
     
       <url>
+        <loc>http://koffijberghairdressers.com/contact/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+       </url>
+    
+  
+    
+      <url>
+        <loc>http://koffijberghairdressers.com/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+       </url>
+    
+  
+    
+      <url>
         <loc>http://koffijberghairdressers.com/disclaimer/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -223,7 +239,7 @@
   
     
       <url>
-        <loc>http://koffijberghairdressers.com/approach/</loc>
+        <loc>http://koffijberghairdressers.com/contact/thank-you/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
        </url>
@@ -247,14 +263,6 @@
   
     
       <url>
-        <loc>http://koffijberghairdressers.com/copyright/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-       </url>
-    
-  
-    
-      <url>
         <loc>http://koffijberghairdressers.com/privacy/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -263,7 +271,7 @@
   
     
       <url>
-        <loc>http://koffijberghairdressers.com/contact/</loc>
+        <loc>http://koffijberghairdressers.com/copyright/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
        </url>
@@ -279,15 +287,7 @@
   
     
       <url>
-        <loc>http://koffijberghairdressers.com/contact/thank-you/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-       </url>
-    
-  
-    
-      <url>
-        <loc>http://koffijberghairdressers.com/</loc>
+        <loc>http://koffijberghairdressers.com/approach/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
        </url>
