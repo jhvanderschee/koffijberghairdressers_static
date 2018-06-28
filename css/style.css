@@ -62,6 +62,16 @@ body.iOS .salon2,
 body.iOS .salon3 {
   background-attachment: scroll; }
 
+.post-content .editable h2, .post-content .editable h1 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 50px;
+  margin-bottom: 0.5em;
+  margin-top: 0px;
+  line-height: 1.1;
+  color: #241a1f; }
+
 #splash {
   display: none;
   position: fixed;
