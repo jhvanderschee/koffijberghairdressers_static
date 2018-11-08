@@ -111,11 +111,11 @@ body.iOS .salon3 {
 
 .visualnews .btn-primary {
   color: white !important;
-  border: 1px solid #5e2d83 !important;
+  order: 1px solid #5e2d83 !important;
   background: #5e2d83 !important; }
 
 .visualnews .btn-primary:hover {
-  border: 1px solid #241a1f !important;
+  order: 1px solid #241a1f !important;
   background: #241a1f !important; }
 
 .visualnews a.btn-default {
@@ -225,7 +225,7 @@ body.iOS .salon3 {
   padding-left: 25px;
   padding-right: 25px;
   border-radius: 0;
-  border: 0;
+  order: 0;
   font-family: 'PT Sans Narrow', sans-serif;
   font-weight: 700;
   font-size: 17px;
@@ -350,11 +350,11 @@ body.iOS .salon3 {
   vertical-align: top;
   display: inline-block;
   background: #241a1f !important;
-  border: 1px solid #241a1f !important; }
+  order: 1px solid #241a1f !important; }
 
 #likeournews input[type='submit']:hover {
   background: #5e2d83 !important;
-  border: 1px solid white !important; }
+  order: 1px solid white !important; }
 
 #likeournews input[type='email'] {
   font-size: 15px;
@@ -365,7 +365,7 @@ body.iOS .salon3 {
   display: inline-block;
   width: 300px;
   border-radius: 0;
-  border: 0;
+  order: 0;
   -webkit-box-shadow: none;
   box-shadow: none; }
 
@@ -670,7 +670,7 @@ footer a, footer a:hover, footer a:focus {
   position: absolute;
   width: 100%;
   background: transparent;
-  border: 0;
+  order: 0;
   text-transform: uppercase; }
 
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover,
@@ -743,7 +743,7 @@ footer a, footer a:hover, footer a:focus {
   margin-left: 0px !important; }
 
 .navmenu-default {
-  border: 0;
+  order: 0;
   background-color: #241a1f;
   border-color: transparent; }
 
@@ -838,7 +838,7 @@ a:hover {
   padding-left: 25px;
   padding-right: 25px;
   border-radius: 0;
-  border: 0;
+  order: 0;
   font-family: 'PT Sans Narrow', sans-serif;
   font-weight: 700;
   font-size: 17px;
@@ -851,7 +851,7 @@ a:hover {
 
 .btn-default:active:hover, .btn-default:focus, .btn-default:hover, .btn-default {
   opacity: 1;
-  border: 1px solid #241a1f !important;
+  order: 1px solid #241a1f !important;
   background: transparent;
   color: #241a1f;
   -webkit-box-shadow: none;
@@ -863,7 +863,7 @@ a:hover {
 
 .btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .btn-primary {
   opacity: 1;
-  border: 1px solid #241a1f !important;
+  order: 1px solid #241a1f !important;
   background: #241a1f;
   color: white;
   -webkit-box-shadow: none;
@@ -881,11 +881,11 @@ a:hover {
 
 .intro .btn-primary:hover, .intro .btn-default {
   color: white !important;
-  border: 1px solid #5e2d83 !important;
+  order: 1px solid #5e2d83 !important;
   background: #5e2d83 !important; }
 
 .intro .btn-primary, .intro .btn-default:hover {
-  border: 1px solid #241a1f !important;
+  order: 1px solid #241a1f !important;
   background: #241a1f !important; }
 
 .fa {
@@ -1089,7 +1089,7 @@ label {
   font-weight: normal; }
 
 .border {
-  border: 6px solid white;
+  order: 6px solid white;
   box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.25); }
 
 .border img {
@@ -1264,7 +1264,7 @@ blockquote p {
 @media all and (max-width: 767px) {
   .navbar-default .navbar-collapse {
     background: #241a1f;
-    border: none; }
+    order: none; }
 
   .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
     margin-left: 15px !important; }
