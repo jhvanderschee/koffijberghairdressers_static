@@ -100,6 +100,9 @@ body.iOS .salon3 {
   top: 660px;
   z-index: 1; }
 
+#review {
+  display: none; }
+
 .visualnews a, .visualnews p a:hover {
   text-decoration: none; }
 
