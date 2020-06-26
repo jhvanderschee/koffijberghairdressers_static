@@ -1233,7 +1233,8 @@ blockquote p {
   border-bottom: 1px dotted rgba(255, 255, 255, 0.5);
   width: calc(100% - 76px);
   color: white !important;
-  line-height: 1.5em; }
+  line-height: 1.1em;
+  padding-bottom: 10px; }
 
 .gradientdown div {
   color: rgba(255, 255, 255, 0.6);
