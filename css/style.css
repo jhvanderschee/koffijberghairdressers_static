@@ -1253,6 +1253,10 @@ blockquote p {
   top: -1px;
   margin-right: 3px; }
 
+.footerdate {
+  width: 100px;
+  display: inline-block; }
+
 @media all and (max-width: 1199px) {
   .treatments .sidebar {
     padding-left: 0 !important;
