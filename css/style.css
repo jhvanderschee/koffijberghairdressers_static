@@ -632,10 +632,11 @@ footer p {
   font-family: 'Jost';
   font-weight: 300;
   font-size: 15px;
-  line-height: 2em; }
+  line-height: 1.8em; }
 
 footer a, footer a:hover, footer a:focus {
-  color: white; }
+  color: white;
+  text-decoration: none; }
 
 .site-footer {
   padding: 0 0 90px;
@@ -802,7 +803,7 @@ p {
   font-family: 'Jost';
   font-weight: 600;
   font-size: 15px;
-  line-height: 2em; }
+  line-height: 1.8em; }
 
 .post-content h2 em {
   font-size: 22px;
@@ -833,7 +834,7 @@ a:hover {
   font-family: 'Jost';
   font-weight: 300;
   font-size: 15px;
-  line-height: 2em; }
+  line-height: 1.8em; }
 
 .btn {
   color: white;
@@ -1243,7 +1244,7 @@ blockquote p {
 .nieuws_date {
   border-top: 1px dotted silver;
   color: silver;
-  line-height: 2.2em;
+  line-height: 1.8 0.2em;
   padding-bottom: 50px; }
 
 .visualnieuws_date .fa, .nieuws_date .fa {
