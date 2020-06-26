@@ -586,9 +586,9 @@ body.iOS .salon3 {
   font-size: 22px;
   line-height: 1.7em;
   font-style: italic;
-  font-family: 'PT Serif', serif;
+  font-family: 'Jost';
   margin-bottom: 1.3em;
-  font-weight: 400; }
+  font-weight: 300; }
 
 .treatments {
   padding: 90px 0;
@@ -629,8 +629,8 @@ body.iOS .salon3 {
 
 footer p {
   margin: 0;
-  font-family: 'PT Serif', serif;
-  font-weight: 400;
+  font-family: 'Jost';
+  font-weight: 300;
   font-size: 15px;
   line-height: 2em; }
 
@@ -799,8 +799,8 @@ p {
   margin-bottom: 0;
   margin-top: 25px;
   color: #666;
-  font-family: 'PT Serif', serif;
-  font-weight: 700;
+  font-family: 'Jost';
+  font-weight: 600;
   font-size: 15px;
   line-height: 2em; }
 
@@ -830,8 +830,8 @@ a:hover {
   text-decoration: none; }
 
 .post-content {
-  font-family: 'PT Serif', serif;
-  font-weight: 400;
+  font-family: 'Jost';
+  font-weight: 300;
   font-size: 15px;
   line-height: 2em; }
 
@@ -1050,8 +1050,8 @@ a:hover {
   font-size: 12px;
   line-height: 1.6em;
   border-top: 1px solid rgba(255, 255, 255, 0.5);
-  font-family: 'PT Serif', serif;
-  font-weight: 400; }
+  font-family: 'Jost';
+  font-weight: 300; }
 
 .ch-info p a {
   display: block;
