@@ -51,7 +51,7 @@ html {
 
 body {
   color: white;
-  background: #3b2c33;
+  background: #444444;
   font-family: 'PT Sans Narrow', sans-serif;
   font-weight: 700;
   font-size: 17px;
@@ -70,7 +70,7 @@ body.iOS .salon3 {
   margin-bottom: 0.5em;
   margin-top: 0px;
   line-height: 1.1;
-  color: #241a1f; }
+  color: #222222; }
 
 #splash {
   display: none;
@@ -110,7 +110,7 @@ body.iOS .salon3 {
   text-decoration: underline; }
 
 .visualnews h3 a {
-  color: #241a1f; }
+  color: #222222; }
 
 .visualnews .btn-primary {
   color: white !important;
@@ -118,11 +118,11 @@ body.iOS .salon3 {
   background: #5e2d83 !important; }
 
 .visualnews .btn-primary:hover {
-  border: 1px solid #241a1f !important;
-  background: #241a1f !important; }
+  border: 1px solid #222222 !important;
+  background: #222222 !important; }
 
 .visualnews a.btn-default {
-  color: #241a1f; }
+  color: #222222; }
 
 .visualnews a.btn-default:hover, .visualnews a.btn-default:focus {
   color: white; }
@@ -151,7 +151,7 @@ body.iOS .salon3 {
     column-count: 1; } }
 #newsarchive h2 {
   padding-top: 50px;
-  color: #241a1f;
+  color: #222222;
   text-transform: uppercase;
   font-family: 'PT Sans Narrow', sans-serif;
   font-weight: 700;
@@ -211,7 +211,7 @@ body.iOS .salon3 {
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); }
 
 #popup div.popupcontent {
-  color: #241a1f;
+  color: #222222;
   padding: 55px 0 20px 5px; }
 
 #popup div.popupcontent.large_text {
@@ -277,7 +277,7 @@ body.iOS .salon3 {
   right: 0; }
 
 #not_sharethis div {
-  background: #241a1f;
+  background: #222222;
   text-align: left;
   width: 90px;
   height: 40px;
@@ -352,8 +352,8 @@ body.iOS .salon3 {
 #likeournews input[type='submit'] {
   vertical-align: top;
   display: inline-block;
-  background: #241a1f !important;
-  border: 1px solid #241a1f !important; }
+  background: #222222 !important;
+  border: 1px solid #222222 !important; }
 
 #likeournews input[type='submit']:hover {
   background: #5e2d83 !important;
@@ -362,7 +362,7 @@ body.iOS .salon3 {
 #likeournews input[type='email'] {
   font-size: 15px;
   background: white;
-  color: #241a1f;
+  color: #222222;
   vertical-align: top;
   height: 38px;
   display: inline-block;
@@ -377,10 +377,10 @@ body.iOS .salon3 {
   color: #444; }
 
 .intro .btn:hover {
-  color: #241a1f; }
+  color: #222222; }
 
 .intro .btn, .intro h1 {
-  color: #241a1f; }
+  color: #222222; }
 
 .intro .btn-primary {
   color: white; }
@@ -450,7 +450,7 @@ body.iOS .salon3 {
   text-align: center;
   padding: 90px 0;
   background: white;
-  color: #241a1f; }
+  color: #222222; }
 
 .about .post-content {
   font-size: 18px;
@@ -473,7 +473,7 @@ body.iOS .salon3 {
   content: "";
   width: 80px;
   height: 5px;
-  background: #241a1f;
+  background: #222222;
   margin: 30px auto !important; }
 
 .salon {
@@ -485,7 +485,7 @@ body.iOS .salon3 {
 .salon .circle {
   text-align: center;
   background: white;
-  color: #241a1f;
+  color: #222222;
   height: 450px;
   width: 450px;
   margin: 25px 0 0 -225px;
@@ -544,7 +544,7 @@ body.iOS .salon3 {
 .twocols {
   padding: 0 0 90px;
   background: white;
-  color: #241a1f; }
+  color: #222222; }
 
 .twocols .post-content p {
   color: #666;
@@ -579,7 +579,7 @@ body.iOS .salon3 {
   content: "";
   width: 80px;
   height: 5px;
-  background: #241a1f;
+  background: #222222;
   margin: 30px 0; }
 
 .post .twocols .post-content p:first-child {
@@ -593,7 +593,7 @@ body.iOS .salon3 {
 .treatments {
   padding: 90px 0;
   background: white;
-  color: #241a1f; }
+  color: #222222; }
 
 .treatments .post-content p {
   color: #666;
@@ -639,7 +639,7 @@ footer a, footer a:hover, footer a:focus {
 
 .site-footer {
   padding: 0 0 90px;
-  background: #241a1f;
+  background: #222222;
   color: white; }
 
 .site-footer .row > div {
@@ -681,12 +681,12 @@ footer a, footer a:hover, footer a:focus {
   opacity: 1;
   text-decoration: none;
   border-top: 3px solid transparent;
-  color: #241a1f;
+  color: #222222;
   margin: 20px 0 25px 30px;
   padding: 4px 0; }
 
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
-  border-top: 3px solid #241a1f; }
+  border-top: 3px solid #222222; }
 
 .navbar-collapse {
   -webkit-box-shadow: none;
@@ -697,11 +697,11 @@ footer a, footer a:hover, footer a:focus {
   margin-bottom: 22px; }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #241a1f; }
+  background-color: #222222; }
 
 .page-template .navbar-default .navbar-toggle .icon-bar,
 .navbar-default.attop .navbar-toggle .icon-bar {
-  background-color: #241a1f; }
+  background-color: #222222; }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
   background-color: transparent;
@@ -737,17 +737,17 @@ footer a, footer a:hover, footer a:focus {
 .navbar-default.attop .navbar-nav > li > a:focus, .navbar-default.attop .navbar-nav > li > a:hover, .navbar-default.attop .navbar-brand, .navbar-default.attop .navbar-nav > li > a,
 .page-template .navbar-default .navbar-brand:focus, .page-template .navbar-default .navbar-brand:hover,
 .page-template .navbar-default .navbar-nav > li > a:focus, .page-template .navbar-default .navbar-nav > li > a:hover, .page-template .navbar-default .navbar-brand, .page-template .navbar-default .navbar-nav > li > a {
-  color: #241a1f; }
+  color: #222222; }
 
 .navbar-default.attop .navbar-nav > li > a:hover, .page-template .navbar-default .navbar-nav > li > a:hover {
-  border-color: #241a1f; }
+  border-color: #222222; }
 
 .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
   margin-left: 0px !important; }
 
 .navmenu-default {
   border: 0;
-  background-color: #241a1f;
+  background-color: #222222;
   border-color: transparent; }
 
 .navmenu-default .navmenu-nav > li > a {
@@ -854,9 +854,9 @@ a:hover {
 
 .btn-default:active:hover, .btn-default:focus, .btn-default:hover, .btn-default {
   opacity: 1;
-  border: 1px solid #241a1f !important;
+  border: 1px solid #222222 !important;
   background: transparent;
-  color: #241a1f;
+  color: #222222;
   -webkit-box-shadow: none;
   box-shadow: none; }
 
@@ -866,8 +866,8 @@ a:hover {
 
 .btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .btn-primary {
   opacity: 1;
-  border: 1px solid #241a1f !important;
-  background: #241a1f;
+  border: 1px solid #222222 !important;
+  background: #222222;
   color: white;
   -webkit-box-shadow: none;
   box-shadow: none; }
@@ -888,8 +888,8 @@ a:hover {
   background: #5e2d83 !important; }
 
 .intro .btn-primary, .intro .btn-default:hover {
-  border: 1px solid #241a1f !important;
-  background: #241a1f !important; }
+  border: 1px solid #222222 !important;
+  background: #222222 !important; }
 
 .fa {
   font-size: 180%;
@@ -930,7 +930,7 @@ a:hover {
 .team {
   padding: 90px 0;
   text-align: center;
-  background: #3b2c33; }
+  background: #444444; }
 
 .teamcontrol {
   font-size: 20px;
@@ -1002,7 +1002,7 @@ a:hover {
   border-radius: 50%;
   position: relative;
   cursor: pointer;
-  box-shadow: inset 0 0 0 0 #241a1f, inset 0 0 0 16px rgba(64, 55, 50, 0.2);
+  box-shadow: inset 0 0 0 0 #222222, inset 0 0 0 16px rgba(64, 55, 50, 0.2);
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
@@ -1068,7 +1068,7 @@ a:hover {
 
 .ch-item:hover {
   opacity: 1;
-  box-shadow: inset 0 0 0 110px #241a1f, inset 0 0 0 16px black; }
+  box-shadow: inset 0 0 0 110px #222222, inset 0 0 0 16px black; }
 
 .ch-item:hover .ch-info {
   opacity: 1;
@@ -1266,7 +1266,7 @@ blockquote p {
     padding-right: 0px; } }
 @media all and (max-width: 767px) {
   .navbar-default .navbar-collapse {
-    background: #241a1f;
+    background: #222222;
     border: none; }
 
   .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
