@@ -1,0 +1,78 @@
+{
+	
+	"include": [".htaccess"],
+	"exclude": [],
+	"base-url": "",
+	"collections": {
+		
+		"members": {
+			"output": true,
+			"_sort-key": null,
+			"_subtext-key": null,
+			"_image-key": null,
+			"_image-size": null,
+			"_singular-name": null,
+			"_singular-key": null,
+			"_disable-add": null,
+			"_icon": null,
+			"_add-options": null
+		},
+		
+		"treatments": {
+			"output": true,
+			"_sort-key": null,
+			"_subtext-key": null,
+			"_image-key": null,
+			"_image-size": null,
+			"_singular-name": null,
+			"_singular-key": null,
+			"_disable-add": null,
+			"_icon": null,
+			"_add-options": null
+		},
+		
+		"collecties": {
+			"output": true,
+			"_sort-key": null,
+			"_subtext-key": null,
+			"_image-key": null,
+			"_image-size": null,
+			"_singular-name": null,
+			"_singular-key": null,
+			"_disable-add": null,
+			"_icon": null,
+			"_add-options": null
+		},
+		
+		"instagram": {
+			"output": false,
+			"_sort-key": null,
+			"_subtext-key": null,
+			"_image-key": null,
+			"_image-size": null,
+			"_singular-name": null,
+			"_singular-key": null,
+			"_disable-add": null,
+			"_icon": null,
+			"_add-options": null
+		}
+		
+	},
+	
+	
+	"defaults": [{"scope": {"path": ""},"values": {"layout": "page"}},{"scope": {"path": "","type": "posts"},"values": {"layout": "post"}},{"scope": {"path": "","type": "members"},"values": {"layout": "member"}}],
+	
+	
+	
+	"paths": {
+		"uploads": null,
+		"plugins": null,
+		"data": null,
+		"collections": null,
+		"includes": null,
+		"layouts": null
+	},
+	
+	
+	"source": "/usr/local/__site/src"
+}
